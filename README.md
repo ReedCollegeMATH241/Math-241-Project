@@ -1,2 +1,2 @@
-# test
-hello world.
+# "What Does a Genome Look Like?"
+This repository includes files for a course project in Albert Kim's Math 241 course, taught at Reed College in the 2015 spring semester. My project aimed to show the benefits of using dedicated genomic data visualization packages found in [Bioconductor](http://www.bioconductor.org/). This project's scope was intentionally left open-ended, because I planned to continue teaching myself how to use packages for RNA-seq/microarray data pathway mapping after the class finished. Upon the course's conclusion, I was comfortable using the cummeRbund package, and was in the midst of using [KEGG](http://www.genome.jp/kegg/pathway.html) databases to plot gene expression onto pathway maps.
